@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T08:44:00.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="1wuAYhYKmD5EsqIXHCSr" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T09:01:11.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="oao_mS8sX2cCnsCOjHxs" version="16.6.2" type="github">
   <diagram id="x9VuiPlzxQuKyvAL59lG" name="Page-1">
-    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -338,6 +338,9 @@
         </mxCell>
         <mxCell id="FilBt39QQ2kYp8dn4ekw-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="800" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FilBt39QQ2kYp8dn4ekw-74" value="成绩管理、问题反馈、流程、任务管理、会议通知、电子网盘&lt;br&gt;基础服务：认证服务、消息服务&lt;br&gt;&lt;br&gt;&lt;br&gt;电子网盘：上传文件、下载文件、在线预览、文件收集&lt;br&gt;流程配置：时间节点配置、流程管控、短信提醒" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-50" width="370" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

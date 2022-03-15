@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T11:07:26.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="FclGOdWTo6U36-jW3Lpj" version="17.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-15T11:08:08.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="cjmYEzv1wnXHPzO44Czv" version="17.1.2" type="github" pages="6">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="毕设管理系统">
     <mxGraphModel dx="932" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,15 +95,15 @@
           <mxGeometry x="400" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_CwhEnLyOfofi023tHQ-0" value="学生" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jti3_BFy193FlBmQTWwX-1">
-          <mxGeometry x="390" y="320" width="60" height="30" as="geometry" />
+          <mxGeometry x="390" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_CwhEnLyOfofi023tHQ-1" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1、提交材料&lt;br&gt;2、查看材料审核进度&lt;br&gt;3、修改材料&lt;br&gt;4、撤回材料&lt;br&gt;5、申请修改材料&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="jti3_BFy193FlBmQTWwX-1">
-          <mxGeometry x="414" y="350" width="260" height="100" as="geometry" />
+          <mxGeometry x="414" y="340" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Q_CwhEnLyOfofi023tHQ-2" value="专业负责人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jti3_BFy193FlBmQTWwX-1">
           <mxGeometry x="680" y="120" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="28pO2AvTqpaXMuJtIwk7-0" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1、审核材料&lt;br&gt;2、查看审核记录&lt;br&gt;3、材料分类管理&lt;br&gt;4、高级搜索材料信息&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="jti3_BFy193FlBmQTWwX-1">
+        <mxCell id="28pO2AvTqpaXMuJtIwk7-0" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1、审核材料&lt;br&gt;2、查看审核记录&lt;br&gt;3、材料分类管理&lt;br&gt;4、高级搜索材料信息&lt;br&gt;5、材料批注&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="jti3_BFy193FlBmQTWwX-1">
           <mxGeometry x="680" y="150" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dhCIYKyoWEm6Vsof59C5-0" value="重量级功能：课题推荐" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jti3_BFy193FlBmQTWwX-1">

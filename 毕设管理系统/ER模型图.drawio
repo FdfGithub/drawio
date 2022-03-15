@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T08:03:54.625Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="0OwJsrs-QnM4RYuneYHq" version="17.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-15T11:10:35.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Xz2vihdYUQHl293aLf2r" version="17.1.2" type="github" pages="5">
   <diagram id="9rKfcI3UxWeTOGNuWa5V" name="整体ER模型">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -939,6 +939,9 @@
         <mxCell id="HD0it_orY-uPy3DjpIxM-0" value="材料类型ID" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="y-IFXqrqsleqMRMlXszr-1" vertex="1">
           <mxGeometry x="20" y="410" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="pINHV24yuOvprHmck0-V-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="y-IFXqrqsleqMRMlXszr-1" source="LZtzysMyW7O0m2IgLUhm-0" target="pINHV24yuOvprHmck0-V-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LZtzysMyW7O0m2IgLUhm-0" value="材料类型" style="whiteSpace=wrap;html=1;align=center;" parent="y-IFXqrqsleqMRMlXszr-1" vertex="1">
           <mxGeometry x="630" y="380" width="100" height="40" as="geometry" />
         </mxCell>
@@ -961,7 +964,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HoEd9w2bXf0D1Y-bUQM--5" value="类型描述" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="y-IFXqrqsleqMRMlXszr-1" vertex="1">
-          <mxGeometry x="750" y="370" width="100" height="40" as="geometry" />
+          <mxGeometry x="760" y="340" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HoEd9w2bXf0D1Y-bUQM--8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="y-IFXqrqsleqMRMlXszr-1" source="HoEd9w2bXf0D1Y-bUQM--7" target="LZtzysMyW7O0m2IgLUhm-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1099,6 +1102,9 @@
         </mxCell>
         <mxCell id="Gz4gsrpn1kPNIrwy-d2p-1" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="y-IFXqrqsleqMRMlXszr-1" vertex="1">
           <mxGeometry x="520" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pINHV24yuOvprHmck0-V-0" value="模板文件" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="y-IFXqrqsleqMRMlXszr-1">
+          <mxGeometry x="770" y="390" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

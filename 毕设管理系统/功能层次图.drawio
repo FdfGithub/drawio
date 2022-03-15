@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T11:01:59.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="UA6zP2-YW-RePUPoqkV_" version="17.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-15T11:07:26.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="FclGOdWTo6U36-jW3Lpj" version="17.1.2" type="github" pages="6">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="毕设管理系统">
     <mxGraphModel dx="932" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,15 +81,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6qO_KXHLR5D4tAaFXkXz" name="材料服务">
-    <mxGraphModel dx="932" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1759" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jti3_BFy193FlBmQTWwX-0" />
         <mxCell id="jti3_BFy193FlBmQTWwX-1" parent="jti3_BFy193FlBmQTWwX-0" />
-        <mxCell id="jti3_BFy193FlBmQTWwX-2" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1、根据学生ID查询学生所提交的各种材料&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;2、按类型显示各材料信息&lt;br&gt;3、提交材料&lt;br&gt;4、审核材料&lt;br&gt;5、查看材料审核进度&lt;br&gt;6、高级搜索材料信息&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="jti3_BFy193FlBmQTWwX-1">
-          <mxGeometry x="400" y="150" width="260" height="100" as="geometry" />
+        <mxCell id="jti3_BFy193FlBmQTWwX-2" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1、根据学生ID查询学生所提交的各种材料&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;2、按类型显示各材料信息&lt;br&gt;3、提交材料&lt;br&gt;4、审核材料&lt;br&gt;5、查看材料审核进度&lt;br&gt;6、高级搜索材料信息&lt;br&gt;7、材料批注&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="jti3_BFy193FlBmQTWwX-1">
+          <mxGeometry x="400" y="150" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZzMPUH3tQlemCtRhYcTf-0" value="材料服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jti3_BFy193FlBmQTWwX-1">
-          <mxGeometry x="170" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZzMPUH3tQlemCtRhYcTf-2" value="导师" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jti3_BFy193FlBmQTWwX-1">
           <mxGeometry x="400" y="130" width="60" height="30" as="geometry" />
@@ -106,6 +106,12 @@
         <mxCell id="28pO2AvTqpaXMuJtIwk7-0" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1、审核材料&lt;br&gt;2、查看审核记录&lt;br&gt;3、材料分类管理&lt;br&gt;4、高级搜索材料信息&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="jti3_BFy193FlBmQTWwX-1">
           <mxGeometry x="680" y="150" width="260" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="dhCIYKyoWEm6Vsof59C5-0" value="重量级功能：课题推荐" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jti3_BFy193FlBmQTWwX-1">
+          <mxGeometry x="-580" y="260" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EFZQjttrQd2-eTAQgGA0-0" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;重量级功能：材料版本控制&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="jti3_BFy193FlBmQTWwX-1">
+          <mxGeometry x="190" y="260" width="220" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -114,6 +120,14 @@
       <root>
         <mxCell id="JgxKTQV4SVceO_PxuLxd-0" />
         <mxCell id="JgxKTQV4SVceO_PxuLxd-1" parent="JgxKTQV4SVceO_PxuLxd-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YojXQBGW2sEvkuZEnZsv" name="文档服务">
+    <mxGraphModel dx="932" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="qfIO_Sm-Fp5-KcTBzwuR-0" />
+        <mxCell id="qfIO_Sm-Fp5-KcTBzwuR-1" parent="qfIO_Sm-Fp5-KcTBzwuR-0" />
       </root>
     </mxGraphModel>
   </diagram>

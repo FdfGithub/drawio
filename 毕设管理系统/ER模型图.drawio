@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T11:40:31.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="HSuDZbvd178d4aUMu6Ms" version="17.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-15T11:42:48.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="TuQzJa2AlYOFsqCX9xgF" version="17.1.2" type="github" pages="5">
   <diagram id="9rKfcI3UxWeTOGNuWa5V" name="整体ER模型">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -878,6 +878,9 @@
         <mxCell id="0My6yNS1BfU3ABHJ_Zz--7" value="课题记录临时表" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="bhdS4qExuQjSY2xpSSyG-1">
           <mxGeometry x="1010" y="960" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jh6yuSv8JsqQ9r6fx4qR-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="bhdS4qExuQjSY2xpSSyG-1" source="0My6yNS1BfU3ABHJ_Zz--8" target="0My6yNS1BfU3ABHJ_Zz--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0My6yNS1BfU3ABHJ_Zz--8" value="临时表ID" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="bhdS4qExuQjSY2xpSSyG-1">
           <mxGeometry x="800" y="960" width="100" height="40" as="geometry" />
         </mxCell>
@@ -999,6 +1002,9 @@
         <mxCell id="QdhcyNCA7YcWA1oOVv_M-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="y-IFXqrqsleqMRMlXszr-1" source="iZ8YVg_8UYVosGNEw4JB-0" target="QdhcyNCA7YcWA1oOVv_M-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zvCnQmb1UjgLKMwvc6HO-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="y-IFXqrqsleqMRMlXszr-1" source="iZ8YVg_8UYVosGNEw4JB-0" target="zvCnQmb1UjgLKMwvc6HO-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iZ8YVg_8UYVosGNEw4JB-0" value="审核记录" style="whiteSpace=wrap;html=1;align=center;" parent="y-IFXqrqsleqMRMlXszr-1" vertex="1">
           <mxGeometry x="150" y="610" width="100" height="40" as="geometry" />
         </mxCell>
@@ -1114,6 +1120,17 @@
         </mxCell>
         <mxCell id="pINHV24yuOvprHmck0-V-0" value="模板文件" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="y-IFXqrqsleqMRMlXszr-1">
           <mxGeometry x="770" y="390" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvCnQmb1UjgLKMwvc6HO-0" value="临时表ID" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="y-IFXqrqsleqMRMlXszr-1">
+          <mxGeometry x="370" y="620" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LhljzOJNQdkX58HvYsuZ-0" value="材料记录临时表" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="y-IFXqrqsleqMRMlXszr-1">
+          <mxGeometry x="530" y="640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LhljzOJNQdkX58HvYsuZ-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="y-IFXqrqsleqMRMlXszr-1" target="LhljzOJNQdkX58HvYsuZ-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="640" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

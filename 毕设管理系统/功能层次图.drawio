@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T08:20:35.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="8Qg7PLTVRwAJyxTVCHbA" version="17.1.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-15T08:26:37.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="3sDMcR_lELiVnOR2fGEP" version="17.1.2" type="github" pages="4">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="毕设管理系统">
     <mxGraphModel dx="932" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -457,7 +457,7 @@
         <mxCell id="nA1DXZiFW4Ts89Zh_ffo-0" />
         <mxCell id="nA1DXZiFW4Ts89Zh_ffo-1" parent="nA1DXZiFW4Ts89Zh_ffo-0" />
         <mxCell id="TPxCgdsVXzDyiCDy6kj3-0" value="课题服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nA1DXZiFW4Ts89Zh_ffo-1">
-          <mxGeometry x="-620" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="-580" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i3xTZsajLcXJQcKw3Edv-2" value="1、申报课题&lt;br&gt;2、确认课题&lt;br&gt;3、高级搜索课题信息&lt;br&gt;4、查询每个课题的选题记录&lt;br&gt;5、查询我的学生&lt;br&gt;6、撤回课题&lt;br&gt;7、查看课题申报记录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nA1DXZiFW4Ts89Zh_ffo-1">
           <mxGeometry x="-380" y="40" width="180" height="120" as="geometry" />

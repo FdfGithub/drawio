@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T11:20:53.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Zkxu4O3zkeZafBbxRrYc" version="17.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-15T11:22:00.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="NfX6CAYD7bNOGibPCWy-" version="17.1.2" type="github" pages="6">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="毕设管理系统">
     <mxGraphModel dx="932" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,7 +123,7 @@
         <mxCell id="Rh1CEjQYFk0xfbZ39z4t-0" value="问题服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JgxKTQV4SVceO_PxuLxd-1">
           <mxGeometry x="200" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rh1CEjQYFk0xfbZ39z4t-3" value="1、提交问题&lt;br&gt;2、回复功能&lt;br&gt;3、回答采纳&lt;br&gt;4、相似问题查询&lt;br&gt;5、高级搜索问题&lt;br&gt;6、通知负责人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JgxKTQV4SVceO_PxuLxd-1">
+        <mxCell id="Rh1CEjQYFk0xfbZ39z4t-3" value="1、提交问题&lt;br&gt;2、回复功能&lt;br&gt;3、回答采纳&lt;br&gt;4、相似问题查询&lt;br&gt;5、高级搜索问题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JgxKTQV4SVceO_PxuLxd-1">
           <mxGeometry x="400" y="160" width="206" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Rh1CEjQYFk0xfbZ39z4t-4" value="普通用户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JgxKTQV4SVceO_PxuLxd-1">
@@ -136,7 +136,7 @@
           <mxGeometry x="393" y="280" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Rh1CEjQYFk0xfbZ39z4t-8" value="难点：做成小程序" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JgxKTQV4SVceO_PxuLxd-1">
-          <mxGeometry x="215" y="290" width="115" height="30" as="geometry" />
+          <mxGeometry x="200" y="290" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T11:22:00.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="NfX6CAYD7bNOGibPCWy-" version="17.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-15T11:25:11.966Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="C_--qDl99_GjgZNM-67t" version="17.1.2" type="github" pages="10">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="毕设管理系统">
     <mxGraphModel dx="932" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,7 +123,7 @@
         <mxCell id="Rh1CEjQYFk0xfbZ39z4t-0" value="问题服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JgxKTQV4SVceO_PxuLxd-1">
           <mxGeometry x="200" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rh1CEjQYFk0xfbZ39z4t-3" value="1、提交问题&lt;br&gt;2、回复功能&lt;br&gt;3、回答采纳&lt;br&gt;4、相似问题查询&lt;br&gt;5、高级搜索问题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JgxKTQV4SVceO_PxuLxd-1">
+        <mxCell id="Rh1CEjQYFk0xfbZ39z4t-3" value="1、提交问题&lt;br&gt;2、回复功能&lt;br&gt;3、回答采纳&lt;br&gt;4、相似问题关联查询&lt;br&gt;5、高级搜索问题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JgxKTQV4SVceO_PxuLxd-1">
           <mxGeometry x="400" y="160" width="206" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Rh1CEjQYFk0xfbZ39z4t-4" value="普通用户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JgxKTQV4SVceO_PxuLxd-1">
@@ -146,6 +146,38 @@
       <root>
         <mxCell id="qfIO_Sm-Fp5-KcTBzwuR-0" />
         <mxCell id="qfIO_Sm-Fp5-KcTBzwuR-1" parent="qfIO_Sm-Fp5-KcTBzwuR-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zH-sQsl5zdpXS0szNkAi" name="消息服务">
+    <mxGraphModel dx="932" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="AY4Y64UHxbpDKKqLlVaC-0" />
+        <mxCell id="AY4Y64UHxbpDKKqLlVaC-1" parent="AY4Y64UHxbpDKKqLlVaC-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Y7ewKPPnJQulruQ-f7y-" name="日志服务">
+    <mxGraphModel dx="932" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="wnrOo8MU2agFvsi93dPV-0" />
+        <mxCell id="wnrOo8MU2agFvsi93dPV-1" parent="wnrOo8MU2agFvsi93dPV-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QgTcz4-8eAucJ9uuHWdI" name="配置中心">
+    <mxGraphModel dx="932" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="03eVQ3EhqVVUHZFf_g6L-0" />
+        <mxCell id="03eVQ3EhqVVUHZFf_g6L-1" parent="03eVQ3EhqVVUHZFf_g6L-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="n1Se0Gej8qHtlQbXZ7p9" name="网关服务">
+    <mxGraphModel dx="932" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="CRyQHQ18yiyp6NwXMlT_-0" />
+        <mxCell id="CRyQHQ18yiyp6NwXMlT_-1" parent="CRyQHQ18yiyp6NwXMlT_-0" />
       </root>
     </mxGraphModel>
   </diagram>

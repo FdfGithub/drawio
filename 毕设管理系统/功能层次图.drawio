@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T11:25:11.966Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="C_--qDl99_GjgZNM-67t" version="17.1.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-15T11:28:48.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="jz0Qj-wpyvQiP3cg1RpB" version="17.1.2" type="github" pages="10">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="毕设管理系统">
     <mxGraphModel dx="932" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -146,6 +146,15 @@
       <root>
         <mxCell id="qfIO_Sm-Fp5-KcTBzwuR-0" />
         <mxCell id="qfIO_Sm-Fp5-KcTBzwuR-1" parent="qfIO_Sm-Fp5-KcTBzwuR-0" />
+        <mxCell id="V9kYsINDAUo57nwVny8K-0" value="在线编辑、在线预览、文档比较、模板格式控制&lt;br&gt;文件上传、下载" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qfIO_Sm-Fp5-KcTBzwuR-1">
+          <mxGeometry x="410" y="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V9kYsINDAUo57nwVny8K-1" value="文档服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qfIO_Sm-Fp5-KcTBzwuR-1">
+          <mxGeometry x="220" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TtpR3UTeagvR0OkRRY1-0" value="技术难点：电子签章" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qfIO_Sm-Fp5-KcTBzwuR-1">
+          <mxGeometry x="250" y="390" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T00:56:54.319Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="mAZ37d5v5vZnd687I8IH" version="17.1.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-03-16T02:28:58.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="mAdEm8ipVqr4SZLzwyIJ" version="17.1.3" type="github" pages="11">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="毕设管理系统">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
         <mxCell id="TPxCgdsVXzDyiCDy6kj3-0" value="课题服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="nA1DXZiFW4Ts89Zh_ffo-1" vertex="1">
           <mxGeometry x="-580" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i3xTZsajLcXJQcKw3Edv-2" value="1、申报课题&lt;br&gt;2、确认课题&lt;br&gt;3、高级搜索课题信息&lt;br&gt;4、查询每个课题的选题记录&lt;br&gt;5、查询我的学生&lt;br&gt;6、撤回课题&lt;br&gt;7、查看课题申报记录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nA1DXZiFW4Ts89Zh_ffo-1" vertex="1">
+        <mxCell id="i3xTZsajLcXJQcKw3Edv-2" value="1、起草、申报课题&lt;br&gt;2、确认课题&lt;br&gt;3、高级搜索课题信息&lt;br&gt;4、查询每个课题的选题记录&lt;br&gt;5、查询我的学生&lt;br&gt;6、撤回课题&lt;br&gt;7、查看课题申报记录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nA1DXZiFW4Ts89Zh_ffo-1" vertex="1">
           <mxGeometry x="-380" y="40" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="i3xTZsajLcXJQcKw3Edv-3" value="导师" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nA1DXZiFW4Ts89Zh_ffo-1" vertex="1">

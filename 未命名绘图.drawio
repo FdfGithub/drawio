@@ -1,1 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2022-07-02T13:07:41.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.1" etag="xHRvKPH76CNNlS5XxxLH" type="github"><diagram id="CfYGiI91u-9FvPqq9ae5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-02T15:39:57.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3QO3J7TPnZwDfVZnqMlP" version="20.0.1" type="github">
+  <diagram id="CfYGiI91u-9FvPqq9ae5" name="第 1 页">
+    <mxGraphModel dx="2489" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-1" value="NameServer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.917;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3B97Zyjn1_LYX6noCrQe-2" target="3B97Zyjn1_LYX6noCrQe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-2" value="职责：&lt;br&gt;1、监听端口，等待连接&lt;br&gt;2、存储Topic和Broker的映射关系" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="550" y="100" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3B97Zyjn1_LYX6noCrQe-4" target="3B97Zyjn1_LYX6noCrQe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.686;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3B97Zyjn1_LYX6noCrQe-4" target="3B97Zyjn1_LYX6noCrQe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.697;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3B97Zyjn1_LYX6noCrQe-4" target="3B97Zyjn1_LYX6noCrQe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-4" value="Broker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="490" width="350" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.697;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3B97Zyjn1_LYX6noCrQe-5" target="3B97Zyjn1_LYX6noCrQe-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-5" value="NameServer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-6" value="NameServer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-7" value="职责：&lt;br&gt;1、连接所有的NameServer" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="700" y="370" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3B97Zyjn1_LYX6noCrQe-10" target="3B97Zyjn1_LYX6noCrQe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3B97Zyjn1_LYX6noCrQe-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-11" value="Queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="510" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-10" value="Producer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3B97Zyjn1_LYX6noCrQe-14" target="3B97Zyjn1_LYX6noCrQe-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-14" value="职责：&lt;br&gt;1、发送消息&lt;br&gt;2、获取路由信息并缓存" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="150" y="100" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3B97Zyjn1_LYX6noCrQe-19" target="3B97Zyjn1_LYX6noCrQe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3B97Zyjn1_LYX6noCrQe-19" target="3B97Zyjn1_LYX6noCrQe-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3B97Zyjn1_LYX6noCrQe-19" target="3B97Zyjn1_LYX6noCrQe-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-19" value="Consumer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-22" value="职责：&lt;br&gt;1、消费消息&lt;br&gt;2、获取路由信息并缓存&lt;br&gt;3、发送心跳包，确保Broker的存活状态" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="450" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3B97Zyjn1_LYX6noCrQe-9" value="Topic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="517.5" width="70" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
